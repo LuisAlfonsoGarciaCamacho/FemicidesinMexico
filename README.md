@@ -1,4 +1,4 @@
-# FemicidesinMexico
+# Femicides in Mexico
 A deep study of femicides in Mexico since 1990 to 2022
 This research delves into the pressing issue of feminicides in Mexico, spanning the period from 1990 to 2022. Utilizing data sourced from the National Institute of Statistics and Geography (INEGI) and the official government website, our study aims to meticulously examine trends in the numbers of female homicides and feminicides across the decades. The primary objective is to identify potential causes contributing to a potential underreporting of feminicides in official records.
 
