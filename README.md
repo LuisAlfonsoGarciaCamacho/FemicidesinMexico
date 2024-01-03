@@ -16,6 +16,7 @@ Objectives:
 
 4. **Policy Implications**: Provide recommendations for policy improvements based on the identified trends and underreporting causes, aiming to enhance the accuracy of feminicide data collection and reporting mechanisms.
 
+![alt text](https://github.com/LuisAlfonsoGarciaCamacho/FemicidesinMexico/blob/26c6e4144dad8ef9f027371afd8f6838e5fdfd56/img/Percentage%20of%20femicides.png)
 Methodology (Continued):
 
 5. **Time Series Analysis and Forecasting:** To gain insights into future trends and variations, we employed the Prophet package in Python for time series analysis. This powerful tool allowed us to model and forecast the occurrences of feminicides and female homicides based on historical data, providing a predictive element to our study.
@@ -28,9 +29,14 @@ Methodology (Continued):
 
 Results and Preliminary Findings:
 
+![alt text](https://github.com/LuisAlfonsoGarciaCamacho/FemicidesinMexico/blob/e7b7ba71f5ca1e92a228049729df824636c53907/img/Feminicidiostrendycambiosgrandes_2015-2022.png)
+
 The initial application of the Prophet model on the feminicide data from 1990 to 2014 yielded insightful predictions, shedding light on potential future trends. While the comprehensive analysis of these predictions is ongoing, the preliminary findings indicate that the forecasting capabilities of the Prophet model hold promise in anticipating patterns in feminicide rates.
 
 This integration of time series analysis and forecasting not only contributes to a more holistic understanding of historical trends but also equips policymakers with tools to anticipate potential future challenges. The ongoing research aims to refine and expand upon these initial predictions, providing a robust foundation for informed decision-making and targeted interventions to address the critical issue of feminicides in Mexico.
+
+![alt text](https://github.com/LuisAlfonsoGarciaCamacho/FemicidesinMexico/blob/e7b7ba71f5ca1e92a228049729df824636c53907/img/Homicidiostredn_1990-2022.png)
+
 Significance:
 
 The significance of this research lies in its potential to contribute to the development of more effective policies and interventions aimed at combating feminicides in Mexico. By understanding the nuances of underreporting, authorities can refine their strategies to ensure accurate representation and address the root causes of this alarming issue. This research aims to shed light on the challenges and complexities associated with tracking feminicides, ultimately fostering a safer environment for women in Mexico.
